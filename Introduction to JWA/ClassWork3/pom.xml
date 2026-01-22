@@ -5,7 +5,7 @@
     <artifactId>sample</artifactId>
     <version>ClassWork3</version>
     <packaging>war</packaging>
-    <name>sample-ClassWork3</name>
+    <name>ClassWork3-1.0-SNAPSHOT</name>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
